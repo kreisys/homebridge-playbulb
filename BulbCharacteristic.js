@@ -1,5 +1,5 @@
 'use strict';
-let noble = require('noble');
+let noble = require('@abandonware/noble');
 
 class BulbCharacteristicClass {
     constructor(bulbUuid, colorUuid) {
